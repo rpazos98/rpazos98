@@ -2,7 +2,7 @@
 
 I'm a Software Engineer graduated from Universidad Austral (5 years course) and I'm currently working at MuleSoft as Software Engineer MTS.
 
-I tend to work in Java :coffee:, Python :snake: and Scala as a backend developer, but I have some expercience developing with React.
+I tend to work in Java :coffee:, Python :snake: and Scala as a backend developer. I also have some expercience developing with React.
 
 I love reading about systems desing, programming paradigms and engineering teams managment.
 
