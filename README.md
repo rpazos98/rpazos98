@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Rodrigo Pazos
 
-I'm a Software Engineer graduated from Universidad Austral (5 years course) and I'm currently working at MuleSoft as Software Engineer MTS.
+I'm a Software Engineer graduated from Universidad Austral (5 years course). I'm an ex-Muley (Software Engineer MTS) and I'm now working at Keyway as Software Engieneer.
 
 I tend to work in Java :coffee:, Python :snake: and Scala :ladder: as a backend developer. I also have some expercience developing with React.
 
