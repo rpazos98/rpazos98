@@ -4,7 +4,7 @@ I'm a Software Engineer graduated from Universidad Austral (5 years course). I'm
 
 I tend to work in Java :coffee:, Python :snake: and Scala :ladder: as a backend developer. I also have some expercience developing with React.
 
-I love reading about systems desing, programming paradigms and engineering teams managment.
+I love reading about systems design, programming paradigms and engineering teams managment.
 
 <p align="center">
 <a href="https://github.com/rpazos98">
